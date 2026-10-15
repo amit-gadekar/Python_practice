@@ -1,2 +1,2 @@
 # Python_practice
-Python code snippet practice 
+Python code practice 
